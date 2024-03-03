@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "960c62b8-70d9-4aa4-b55f-f88d74435f57": {
+      "ProjectGuid": "960c62b8-70d9-4aa4-b55f-f88d74435f57",
+      "DisplayName": "Tarefa de avaliação",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24ba37a1-b990-494e-b78c-187c5f77e2df": {
+      "ProjectGuid": "24ba37a1-b990-494e-b78c-187c5f77e2df",
+      "DisplayName": "testes de código",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
